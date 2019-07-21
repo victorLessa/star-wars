@@ -1,6 +1,6 @@
 # planet-name
 
-> A Vue.js project to B2w Digital
+> A Vue.js project
 
 ## Build Setup
 
