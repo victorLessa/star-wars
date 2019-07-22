@@ -6,6 +6,7 @@
 
 Author Victor Camara Lessa victorlessa.me
 
+Link para o projeto -> https://star-wars-2ecfa.firebaseapp.com/
 ``` bash
 # install dependencies
 npm install
